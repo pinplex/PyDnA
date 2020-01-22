@@ -1,3 +1,4 @@
 __pycache__/*
 .spyproject/
-data/*
+data/*.nc
+data/PyDnA_example-data.zip
