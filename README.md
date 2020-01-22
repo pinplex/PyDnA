@@ -10,7 +10,7 @@ This package is still under development and has not been fully tested yet.
 
 - `ROF_main.py` - DA routine (based on A. Ribes scilab code)
 
-### Helper functions (Friederike Fröb)
+### Helper functions (written by Friederike Fröb)
 - `load_fil_data.py` - load data and filter data
 
 - `plot_da_res.py` - plot results of da routine
